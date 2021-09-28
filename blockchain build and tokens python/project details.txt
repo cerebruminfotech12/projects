@@ -1,0 +1,7 @@
+In this project i have built blockchain with python and django framework
+in this project i store data in different blocks and each block generate previous hash and new hash successfully.
+
+The main motive of this project is We have done transactions in it from one address to another.like (p2p) one network to another network with less time. And the data that will be like the user's info   transactions, that I have stored in different blockchain blocks.
+
+In this project we have also given 100 tokens to the user.
+If a new user will create his account then he will get 100 tokens free for doing transactions after finish 100 tokens he will have to update the token.for the transaction.

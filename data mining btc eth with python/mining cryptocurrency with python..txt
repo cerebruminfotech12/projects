@@ -1,0 +1,3 @@
+The main motive of this project is doing mining with the help of python script. In this project we can also set difficulty level for mining.
+
+If someone wants to do data mining at low difficulty level then he can do it.so its advantage of those user who can't afford expensive systems they easily mine some new crypto coins with low difficulty level.

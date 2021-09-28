@@ -1,0 +1,4 @@
+This project gives us the data of cryptocurrency by analyzing (when we run project) they analyze the data of crypto And how much is the price of crypto, it all shows.
+
+we use coin base api for this and some packages like (cryptographic ASCII 
+SHA256)
